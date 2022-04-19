@@ -13,3 +13,11 @@ OOP:
             - Method overloading
         2.Run Time
             - Method overriding
+
+
+Strings:
+
+-String objects are handled specially by the compiler
+-String is the only class which has implicit instantiation
+-The string class is defined int the java.lang
+-String are immutable
