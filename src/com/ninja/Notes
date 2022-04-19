@@ -21,3 +21,13 @@ Strings:
 -String is the only class which has implicit instantiation
 -The string class is defined int the java.lang
 -String are immutable
+
+Throw:
+- Used to explicitly throw an exception
+- Checked exception cannot be propagated using throw
+- Throw is followed by an instance
+- Throw is used within the method
+- You cannot throw multiple exceptions
+
+Throws:
+-
