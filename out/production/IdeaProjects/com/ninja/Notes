@@ -21,3 +21,24 @@ Strings:
 -String is the only class which has implicit instantiation
 -The string class is defined int the java.lang
 -String are immutable
+
+
+
+
+
+
+Throw:
+- Used to explicitly throw an exception
+- Checked exception cannot be propagated using throw
+- Throw is followed by an instance
+- Throw is used within the method
+- You cannot throw multiple exceptions
+
+Throws:
+-
+
+ArrayList,LinkedList,Vector :\
+1.It is a dynamic array or a growable array,
+2.It accepts duplicates
+3.Data manipulation is supported
+4.

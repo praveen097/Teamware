@@ -22,6 +22,11 @@ Strings:
 -The string class is defined int the java.lang
 -String are immutable
 
+
+
+
+
+
 Throw:
 - Used to explicitly throw an exception
 - Checked exception cannot be propagated using throw
@@ -31,3 +36,9 @@ Throw:
 
 Throws:
 -
+
+ArrayList,LinkedList,Vector :\
+1.It is a dynamic array or a growable array,
+2.It accepts duplicates
+3.Data manipulation is supported
+4.
