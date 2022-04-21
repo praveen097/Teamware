@@ -1,8 +1,6 @@
 package com.ninja.oop.collection.task1;
 
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class ItemTypeMain {
@@ -19,6 +17,14 @@ public class ItemTypeMain {
             String name = sc.nextLine();
             it.setName(name);
             System.out.print("Deposit : ");
+
+
+
+
+
+
+
+
             double deposit = sc.nextDouble();
             it.setDeposit(deposit);
             System.out.print("Cost per day : ");

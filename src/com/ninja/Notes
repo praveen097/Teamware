@@ -41,4 +41,19 @@ ArrayList,LinkedList,Vector :\
 1.It is a dynamic array or a growable array,
 2.It accepts duplicates
 3.Data manipulation is supported
-4.
+
+
+Multi Processing:
+- Multiple processes running concurrently. This ability is know as multi processing.
+- Each processs have it's own address memory, each process allocates seperate memory area
+- OS allocates the resources to a process
+- Process is heavy weight
+- Cost of communication between the process is high
+
+- Contains one or more threads( single threaded or multi threaded)
+
+Thread:
+- It is a separate path of execution
+- Theads are independent, if there are exceptions in one thread, it doesn't affect other threads.
+- It share common memory area.
+- java.land.Thread class in java provides support for threads. Each threads
