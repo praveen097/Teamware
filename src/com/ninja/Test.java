@@ -1,15 +1,14 @@
 package com.ninja;
 
-import java.util.TreeSet;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Test {
     public static void main(String[] args) {
-      int[] arr = {0,48,4,84,4,84,478,741,5648,71,5,487,98,5,9,87,5};
-      TreeSet<Integer> ts = new TreeSet<>();
-        for (int j : arr) {
-            ts.add(j);
-        }
-        Object[] arr2 = ts.toArray();
-        System.out.println(arr2[arr2.length-2]);
+        List<Integer> list = new ArrayList<>(15);
+        list.add(54);
+        System.out.println(list);
     }
 }
+
+

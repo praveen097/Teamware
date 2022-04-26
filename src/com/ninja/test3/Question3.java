@@ -2,7 +2,7 @@ package com.ninja.test3;
 
 public class Question3 {
     public static void main(String[] args) {
-        pattern(4);
+        pattern(5);
     }
 
     private static void pattern(int n) {
